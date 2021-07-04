@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="333" height="182" viewBox="0 0 333 182">
+    <defs>
+        <path id="b" d="M71.1 0c28.114 0 52.418 16.318 63.955 40H266l27.474 32.45L266 103H135l.002-.691C123.444 125.932 99.172 142.2 71.1 142.2 31.833 142.2 0 110.367 0 71.1 0 31.833 31.833 0 71.1 0z"/>
+        <filter id="a" width="119.4%" height="140.1%" x="-9.7%" y="-13.7%" filterUnits="objectBoundingBox">
+            <feOffset dy="9" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="8"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.189439467 0"/>
+        </filter>
+        <linearGradient id="c" x1="50%" x2="29.623%" y1="55.478%" y2="3.024%">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="100%" stop-color="#F1F2F7"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(20 20)">
+        <use fill="#000" filter="url(#a)" xlink:href="#b"/>
+        <use fill="#FFF" xlink:href="#b"/>
+        <circle cx="71.1" cy="71.1" r="63.9" fill="url(#c)"/>
+    </g>
+</svg>

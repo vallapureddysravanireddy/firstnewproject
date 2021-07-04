@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="296" height="424" viewBox="0 0 296 424">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a0a0a0;
+      }
+
+      .cls-2 {
+        fill: #9243ce;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: #a768d7;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3323" data-name="Rectangle 3323" class="cls-1" width="296" height="424" rx="8" transform="translate(104 1624)"/>
+    </clipPath>
+  </defs>
+  <g id="Carousel-4" transform="translate(12674 19818)">
+    <rect id="Rec-4" class="cls-2" width="296" height="424" rx="8" transform="translate(-12674 -19818)"/>
+    <g id="Wave-4" class="cls-3" transform="translate(-12778 -21442)">
+      <path id="Path_15264" data-name="Path 15264" class="cls-4" d="M-10946-19743s2.061-123.367,152-104,71.215-101.057,168-144,123.834,32.563,184-16,7.474-112.4,64-160,88,8,88,8l-16,512-624,8Z" transform="translate(-5607.641 -20075.205) rotate(-167)"/>
+    </g>
+  </g>
+</svg>
